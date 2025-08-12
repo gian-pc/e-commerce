@@ -9,7 +9,7 @@ Proyecto e-commerce creado con Next.js
 - React  19
 - Tailwindcss 4
 
-## Avances
+## Diseño I
 
 ### 1. Configuración inicial
 - Proyecto creado con `create-next-app`.
@@ -17,3 +17,5 @@ Proyecto e-commerce creado con Next.js
 - `.gitignore` personalizado.
 - Creación de assets de imágenes
 
+### 2. NestJs Fonts
+- Creamos fonts.ts
